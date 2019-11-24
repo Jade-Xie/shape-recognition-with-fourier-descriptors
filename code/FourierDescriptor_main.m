@@ -1,5 +1,5 @@
 %% Shape Recognition with Fourier Descriptors
-% Hidir Yuzuguzel, 244904
+% author: Hidir Yuzuguzel
 clear all, close all
 %% Global variables
 shape_names = {'triangular_shapes','quadrandular_shapes','pentagon_shapes','test_image'};
