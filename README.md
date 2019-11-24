@@ -9,7 +9,7 @@
 2. Connected component labeling and fragment removal
 3. Boundary tracing
 
-## Feature Extractors:
+## Feature Extraction:
 - Computing Fourier Descriptors 
 - Alternative: 6 different general shape features: compactness, rectangularity, circularity, eccentricity, area/perimiter, etc. (General shape features are not robust a lot but it is not bad for classifying simple shapes such as triangular, pentagons, etc.)
 
